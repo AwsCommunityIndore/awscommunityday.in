@@ -1282,8 +1282,8 @@ ul.circle li {
 
 /* line 54, ../sass/shared/_home.scss */
 #page .section-1 .content .container>div .left_in img {
-  max-width: 350px;
-  margin: 0 auto 50px;
+  max-width: 450px;
+  margin: 0 auto 35px;
   display: block;
 }
 
@@ -2836,6 +2836,26 @@ ul.circle li {
 
 #page .section-6 .volunteers .vl-i .person[data-fname="Prithviraj Singh"] .img {
   background-image: url(../images/vols/prithvi.png);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Pratik"] .img {
+  background-image: url(../images/vols/pratik.png);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Manish"] .img {
+  background-image: url(../images/vols/manish.png);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Sonali"] .img {
+  background-image: url(../images/vols/sonali.png);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Aman"] .img {
+  background-image: url(../images/vols/aman.png);
+}
+
+#page .section-6 .volunteers .vl-i .person[data-fname="Krati"] .img {
+  background-image: url(../images/vols/krati.png);
 }
 
 /* line 1000, ../sass/shared/_home.scss */
